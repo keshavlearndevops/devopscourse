@@ -8,7 +8,7 @@ Jenkins is installed on EC2. Follow the instructions on https://www.jenkins.io/d
 
 2. Install Docker on the EC2 after Jenkins is installed by following the instructions on https://serverfault.com/questions/836198/how-to-install-docker-on-aws-ec2-instance-with-ami-ce-ee-update
 
-3. Run `sudo chmod 666 /var/run/docker.sock` on the EC2 after Docker is installed.
+3. Run `sudo chmod 666 /var/run/docker.sock` on the EC2 after Docker is installed....
 
 4. Install Git on the EC2 by running `sudo yum install git`
 
